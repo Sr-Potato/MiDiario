@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951858542929",
+    "project_id": "midiario-5102b",
+    "storage_bucket": "midiario-5102b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951858542929:android:81b176a7252f806fc6bb70",
+        "android_client_info": {
+          "package_name": "com.midiario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzC31iiZSB4A5pmYrmPNDwd9uM44BZS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
